@@ -8,10 +8,10 @@ insights and information that can be visualized in a user-friendly manner
 
 ## Technologies Used:
 
-Github Cloning
-Python
-Pandas
-MySQL
-mysql-connector-python
-Streamlit
-Plotly
+- Github Cloning
+- Python
+- Pandas
+- MySQL
+- mysql-connector-python
+- Streamlit
+- Plotly
